@@ -7,6 +7,15 @@
     font-size: 3.75rem;
   }
 
+  &--blue{
+    color: $mainBlue;
+  }
+
+  &--less-margin{
+    margin-bottom: 1.3rem;
+    margin-top: 0;
+  }
+
   strong{
     font-weight: 500;
   }
@@ -25,9 +34,5 @@
       margin-bottom: 0;
       display: inline-block;
     }
-  }
-
-  &--blue{
-    color: $mainBlue;
   }
 }
