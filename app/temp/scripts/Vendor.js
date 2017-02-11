@@ -47,15 +47,13 @@
 
 	'use strict';
 
-	__webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"../../temp/scripts/modernizr.js\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
+	__webpack_require__(8);
 
 	__webpack_require__(9);
 
-	__webpack_require__(10);
-
 /***/ },
 
-/***/ 9:
+/***/ 8:
 /***/ function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_RESULT__;/*! picturefill - v3.0.2 - 2016-02-12
@@ -1606,7 +1604,7 @@
 
 /***/ },
 
-/***/ 10:
+/***/ 9:
 /***/ function(module, exports) {
 
 	(function(window, factory) {
