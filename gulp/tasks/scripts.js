@@ -9,5 +9,6 @@ gulp.task('scripts', ['modernizr'], function(callback) {
     }
 
     console.log(stats.toString());
+    callback();
   });
 });
